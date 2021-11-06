@@ -5,7 +5,7 @@ just what the repo says, will not run for you without registering with the serve
 
 1. as soon as the race master says "on your marks..." enter
 
-```onyourmarks.sh```
+```onyourmark.sh```
 
 2. as soon as the race master says "go!" enter
 
